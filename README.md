@@ -22,6 +22,10 @@
 * [webpack 4: mode and optimization](https://medium.com/webpack/webpack-4-mode-and-optimization-5423a6bc597a) - A complete guide to mode and optimization in webpack 4, by Tobias Koppers
 * [Webpack 4 tutorial: All You Need to Know, from 0 Conf to Production Mode](https://www.valentinog.com/blog/webpack-4-tutorial/) - A living, breathing introduction to webpack 4
 
+## Resources
+
+* [Programming Community Curated Resources for learning webpack](https://hackr.io/tutorials/learn-webpack)
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
